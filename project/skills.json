@@ -1,0 +1,77 @@
+[
+    {
+        "name":"HTML",
+        "icon":"https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+
+    {
+        "name":"CSS",
+        "icon":"https://img.icons8.com/color/48/000000/css3.png"
+
+    },
+
+    {
+        "name":"Javascript",
+        "icon":"https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+
+    {
+        "name":"MySql",
+        "icon":"https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+
+    {
+        "name":"Java",
+        "icon":"https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+
+    {
+        "name":"React JS",
+        "icon":"https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+    },
+
+    {
+        "name":"Bootstrap",
+        "icon":"https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+
+    {
+        "name":"Github",
+        "icon":"https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+
+    {
+        "name":"Word",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lSQSZeFUAd5C-nFX5i8AtT3Qz8WUNwnU8g&s"
+    },
+
+    {
+        "name":"Powerpoint",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-U9KA5Q3nJnsiiYW8bMlnFpgn2lPsgqbxA&s"
+    },
+
+    {
+        "name":"Excel",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTroU91FLk1e5CTmveZCstER9A-qLpJGNtZvA&s"
+    },
+
+    {
+        "name":"Type Writing",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-wcVJxJ9O9d9JPwUzLmfYylq_bGwwlyMrA&s"
+    },
+
+    {
+        "name":"Microsoft 365",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkfNV1YtiGc-HUrSF4OfHIX50fUSmXWPWP2g&s"
+    },
+
+    {
+        "name":"Cyber Security",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXy2pD9K0vJhhGr-Ci3AU4ig76ApTK4M2vKg&s"
+    },
+
+    {
+        "name":"IBM",
+        "icon":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd3rT245AWnV0E0UpnwKHTNddh_hAFN-OnvA&s"
+    }
+]
